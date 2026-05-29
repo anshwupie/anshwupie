@@ -1,4 +1,4 @@
-# About Me:
+# Anshwu
 
 16-year-old designer and creator
 
@@ -10,7 +10,8 @@
 
 My dream is to be the BEST.
 
-Contact:
+# Contact:
+
 ⌈ E-mail ⌋: anshwupie@gmail.com
 
 ## 🌐 Socials:
