@@ -17,8 +17,11 @@ I build things around design, content, and love.
 ## Goals
 
 • Create meaningful work
+
 • Help people become their best selves
+
 • Build a life of freedom
+
 • Spread love wherever I go
 
 > What are you waiting for?
