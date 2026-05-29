@@ -17,8 +17,8 @@ I build things around design, content, and love.
 ## Goals
 
 • Create meaningful work
-• Help people improve
-• Build freedom
+• Help people
+• Move out and spread love <3
 
 > What are you waiting for?
 # Contact:
