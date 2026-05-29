@@ -6,19 +6,19 @@ I build things around design, content, and love.
 
 ## Learning
 
-- UI/UX Design
-- Web Development
-- Business Systems
+• UI/UX Design
+• Web Development
+• Business Systems
 
-# Contact:
+## Contact:
 
 ⌈ E-mail ⌋: anshwupie@gmail.com
 
 ## Goals
 
-- Create meaningful work
-- Help people improve
-- Build freedom
+• Create meaningful work
+• Help people improve
+• Build freedom
 
 > What are you waiting for?
 # Contact:
