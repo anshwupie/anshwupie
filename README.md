@@ -1,6 +1,17 @@
-# 💫 About Me:
-I like JJBA and build cool stuff ig
-ALSO I LOVE MY GIRLFRIEND :3 
+# About Me:
+
+16-year-old designer and creator
+
+## Current Goals
+
+- Master UI/UX
+- Reach 10k Subs on yt
+- spread love :)
+
+My dream is to be the BEST.
+
+Contact:
+⌈ E-mail ⌋: anshwupie@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshwupie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshwupie) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tty1080p) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anshwupie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anshwupie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshwupie@gmail.com) 
@@ -14,9 +25,6 @@ ALSO I LOVE MY GIRLFRIEND :3
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anshwupie&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://komarev.com/ghpvc/?username=anshwupie&icon=0&color=0)](https://visitcount.itsvg.in)
