@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 Building cool things<br><br>👯 Open to collaborating<br><br>🤝 Always learning<br><br>🌱 Graphic Design • UI/UX • Motion<br><br>💬 Ask me about designing cool stuff<br><br>⚡ Creativity over everything
-
+I like JJBA and build cool stuff ig
+ALSO I LOVE MY GIRLFRIEND :3 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshwupie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshwupie) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tty1080p) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anshwupie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anshwupie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshwupie@gmail.com) 
